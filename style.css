@@ -25,7 +25,7 @@ main{
 
 .landing{
     min-height:100vh;
-    background: url("./img/pexels-the-lazy-artist-gallery-1633682.jpg");
+    background: url("pexels-the-lazy-artist-gallery-1633682.jpg");
     background-size: cover;
     padding: 0rem 5rem;
 }
